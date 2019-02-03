@@ -1,0 +1,11 @@
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.csprojAssemblyReference.cache
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.Form1.resources
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.Properties.Resources.resources
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.csproj.GenerateResource.cache
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.csproj.CoreCompileInputs.cache
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\bin\Debug\BloodMnagement.exe.config
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\bin\Debug\BloodMnagement.exe
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\bin\Debug\BloodMnagement.pdb
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.exe
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.pdb
+C:\Users\Sven\source\repos\BloodMnagement\BloodMnagement\obj\Debug\BloodMnagement.Form2.resources
