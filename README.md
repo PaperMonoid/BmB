@@ -1,3 +1,4 @@
 # BmB
 
-A simple Blood Managment Sistem on c# for Software Engeniring Course
+A simple Blood Managment System on c# for Software Engeniring Course
+
