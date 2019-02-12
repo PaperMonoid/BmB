@@ -1,4 +1,4 @@
-﻿namespace BloodMnagement
+﻿namespace BloodManagement
 {
     partial class Form2
     {

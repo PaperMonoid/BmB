@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 
-namespace BloodMnagement
+namespace BloodManagement
 {
     public partial class Form2 : Form
     {
