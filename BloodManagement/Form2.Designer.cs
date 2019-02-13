@@ -72,6 +72,7 @@
             this.label26 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.comboBox5 = new System.Windows.Forms.ComboBox();
             this.label13 = new System.Windows.Forms.Label();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label12 = new System.Windows.Forms.Label();
@@ -118,7 +119,6 @@
             this.panel4 = new System.Windows.Forms.Panel();
             this.button8 = new System.Windows.Forms.Button();
             this.label14 = new System.Windows.Forms.Label();
-            this.comboBox5 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.panel8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -285,7 +285,7 @@
             // 
             // tabPage4
             // 
-            this.tabPage4.BackColor = System.Drawing.Color.Silver;
+            this.tabPage4.BackColor = System.Drawing.Color.LightPink;
             this.tabPage4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.tabPage4.Controls.Add(this.panel7);
             this.tabPage4.Controls.Add(this.label24);
@@ -585,7 +585,7 @@
             // 
             // tabPage3
             // 
-            this.tabPage3.BackColor = System.Drawing.Color.Silver;
+            this.tabPage3.BackColor = System.Drawing.Color.LightSteelBlue;
             this.tabPage3.Controls.Add(this.pictureBox3);
             this.tabPage3.Controls.Add(this.label31);
             this.tabPage3.Controls.Add(this.panel8);
@@ -622,7 +622,7 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.Silver;
+            this.panel3.BackColor = System.Drawing.Color.DarkGreen;
             this.panel3.Controls.Add(this.comboBox5);
             this.panel3.Controls.Add(this.button2);
             this.panel3.Controls.Add(this.label13);
@@ -633,6 +633,47 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(681, 211);
             this.panel3.TabIndex = 0;
+            // 
+            // comboBox5
+            // 
+            this.comboBox5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox5.FormattingEnabled = true;
+            this.comboBox5.Items.AddRange(new object[] {
+            "Aguascalientes",
+            "Baja California",
+            "Baja California Sur",
+            "Campeche ",
+            "Chihuahua",
+            "Chiapas",
+            "Coahuila",
+            "Colima",
+            "Durango",
+            "Guanajuato",
+            "Guerrero",
+            "Hidalgo ",
+            "Jalisco",
+            "México",
+            "Michoacán",
+            "Morelos",
+            "Nayarit",
+            "Nuevo León",
+            "Oaxaca",
+            "Puebla",
+            "Querétaro",
+            "Quintana Roo",
+            "San Luis Potosí",
+            "Sinaloa",
+            "Sonora",
+            "Tabasco",
+            "Tamaulipas",
+            "Tlaxcala",
+            "Veracruz",
+            "Yucatán",
+            "Zacatecas"});
+            this.comboBox5.Location = new System.Drawing.Point(188, 131);
+            this.comboBox5.Name = "comboBox5";
+            this.comboBox5.Size = new System.Drawing.Size(121, 21);
+            this.comboBox5.TabIndex = 12;
             // 
             // label13
             // 
@@ -959,7 +1000,7 @@
             // 
             // tabPage1
             // 
-            this.tabPage1.BackColor = System.Drawing.Color.Snow;
+            this.tabPage1.BackColor = System.Drawing.Color.CornflowerBlue;
             this.tabPage1.Controls.Add(this.button1);
             this.tabPage1.Controls.Add(this.label7);
             this.tabPage1.Controls.Add(this.label1);
@@ -1112,7 +1153,7 @@
             // 
             // panel4
             // 
-            this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(240)))), ((int)(((byte)(216)))));
+            this.panel4.BackColor = System.Drawing.Color.Yellow;
             this.panel4.Controls.Add(this.button8);
             this.panel4.Controls.Add(this.label14);
             this.panel4.Location = new System.Drawing.Point(0, 211);
@@ -1138,47 +1179,6 @@
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(0, 13);
             this.label14.TabIndex = 0;
-            // 
-            // comboBox5
-            // 
-            this.comboBox5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox5.FormattingEnabled = true;
-            this.comboBox5.Items.AddRange(new object[] {
-            "Aguascalientes",
-            "Baja California",
-            "Baja California Sur",
-            "Campeche ",
-            "Chihuahua",
-            "Chiapas",
-            "Coahuila",
-            "Colima",
-            "Durango",
-            "Guanajuato",
-            "Guerrero",
-            "Hidalgo ",
-            "Jalisco",
-            "México",
-            "Michoacán",
-            "Morelos",
-            "Nayarit",
-            "Nuevo León",
-            "Oaxaca",
-            "Puebla",
-            "Querétaro",
-            "Quintana Roo",
-            "San Luis Potosí",
-            "Sinaloa",
-            "Sonora",
-            "Tabasco",
-            "Tamaulipas",
-            "Tlaxcala",
-            "Veracruz",
-            "Yucatán",
-            "Zacatecas"});
-            this.comboBox5.Location = new System.Drawing.Point(188, 131);
-            this.comboBox5.Name = "comboBox5";
-            this.comboBox5.Size = new System.Drawing.Size(121, 21);
-            this.comboBox5.TabIndex = 12;
             // 
             // Form2
             // 
